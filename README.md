@@ -1,1 +1,1 @@
-# -mobile-browserstack-
+# mobile-browserstack
