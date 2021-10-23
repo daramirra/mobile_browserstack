@@ -18,6 +18,7 @@ public interface ProjectConfig extends Config {
     @Key("browserstackKey")
     String browserstackKey();
 
+    @DefaultValue("")
     @Key("browserstackUrl")
     String browserstackUrl();
 
