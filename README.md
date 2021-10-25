@@ -1,1 +1,1 @@
-# mobile-browserstack
+### Wikipedia mobile application test automation project with Browserstack (Android) 
